@@ -22,11 +22,6 @@ Features:
 
 Follow these steps to install and set up the project.
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/Andreaswt/hey-gen-clone.git
-```
 
 ### Install Python
 
